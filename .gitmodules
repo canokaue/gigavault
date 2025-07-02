@@ -1,0 +1,3 @@
+[submodule "komposer"]
+	path = komposer
+	url = git@github.com:agentalabs/komposer.git
