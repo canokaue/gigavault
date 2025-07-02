@@ -1,4 +1,4 @@
-This is your new skoobydy.
+This is your new skoobydydooby.
 
 Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
 
