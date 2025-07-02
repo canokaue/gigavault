@@ -10,3 +10,6 @@
 [submodule "cm-vault"]
     path = cm-vault
     url = git@github.com:agentalabs/cm-vault.git
+[submodule "solana-devrel"]
+    path = solana-devrel
+    url = git@github.com:agentalabs/solana-devrel.git
