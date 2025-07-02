@@ -1,3 +1,12 @@
 [submodule "komposer"]
 	path = komposer
 	url = git@github.com:agentalabs/komposer.git
+[submodule "cambi-vault"]
+    path = cambi-vault
+    url = git@github.com:usecambi/cambi-vault.git
+[submodule "caramelo-vault"]
+    path = caramelo-vault
+    url = git@github.com:agentalabs/caramelo-vault.git
+[submodule "cm-vault"]
+    path = cm-vault
+    url = git@github.com:agentalabs/cm-vault.git
