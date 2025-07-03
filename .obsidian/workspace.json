@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "cornae.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "cornae"
             }
           }
         ]
@@ -199,9 +199,10 @@
   },
   "active": "bff52d9ff1668f51",
   "lastOpenFiles": [
+    "cambi-vault/LICENSE",
     "LICENSE",
     "prod.gitignore",
-    "README.md",
+    "cornae.md",
     "2025-07-02.md",
     "Untitled Kanban.md",
     "Excalidraw/Drawing 2025-07-02 13.53.31.excalidraw.md",
@@ -231,7 +232,6 @@
     "Welcome.md",
     "caramelo-vault/Welcome 1.md",
     "cm-vault/cm-risk-kb",
-    "cm-vault",
     "komposer/Syscoin/miningpools2.png",
     "komposer/Syscoin/miningpools.png",
     "komposer/Syscoin/miningpool3.png",
