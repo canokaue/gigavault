@@ -1,5 +1,6 @@
 {
   "show-checkboxes": true,
-  "new-line-trigger": "enter",
-  "move-dates": true
+  "new-line-trigger": "shift-enter",
+  "move-dates": true,
+  "full-list-lane-width": true
 }

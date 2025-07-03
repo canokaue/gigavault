@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,12 +198,15 @@
   },
   "active": "cedcbf3c7ff8e2aa",
   "lastOpenFiles": [
-    "solana-devrel/role/DevRelPillarsDiagram.png",
+    "Untitled Kanban.md",
+    "Untitled.md",
+    "README.md",
     "solana-devrel/role/DevRel ST Brasil Phase 1.md",
+    "solana-devrel/role/_research/DevRel ST Brasil Phase 1 1.md",
+    "solana-devrel/role/DevRelPillarsDiagram.png",
     "Untitled Diagram.svg",
     "Drawing 2025-07-03 09.51.35.excalidraw.md",
     "solana-devrel/README.md",
-    "solana-devrel/role/_research/DevRel ST Brasil Phase 1 1.md",
     "solana-devrel/role/DevRelFlow.svg",
     "Excalidraw/Drawing 2025-07-03 06.59.42.excalidraw.md",
     "Excalidraw",
@@ -222,9 +224,7 @@
     "caramelo-vault/caramelo-agent-kb/LICENSE",
     "solana-devrel/role/_prompts/DevRel ST Brasil Phase 1.md",
     "solana-devrel/mobile/_prompts/Solana Mobile Developer Resources.md",
-    "README.md",
     "2025-07-02.md",
-    "Untitled Kanban.md",
     "Excalidraw/Drawing 2025-07-02 13.53.31.excalidraw.md",
     "caramelo-vault/caramelo-agent-kb/README.md",
     "caramelo-vault/README.md",
