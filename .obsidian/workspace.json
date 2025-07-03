@@ -35,7 +35,8 @@
               "title": "DevRel ST Brasil Phase 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,10 +212,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "bff52d9ff1668f51",
+  "active": "1ecad9fb1dd19f4d",
   "lastOpenFiles": [
-    "solana-devrel/role/DevRelFlow.svg",
     "solana-devrel/role/DevRel ST Brasil Phase 1.md",
+    "solana-devrel/role/DevRelFlow.svg",
     "Excalidraw/Drawing 2025-07-03 06.59.42.excalidraw.md",
     "Excalidraw",
     "solana-devrel/role/_research/DevRel ST Brasil Phase 1 1.md",
