@@ -11,12 +11,14 @@
             "id": "bff52d9ff1668f51",
             "type": "leaf",
             "state": {
-              "type": "diagram-edit",
+              "type": "markdown",
               "state": {
-                "file": "solana-devrel/role/DevRelFlow.svg"
+                "file": "solana-devrel/role/DevRel ST Brasil Phase 1.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "DevRelFlow.svg"
+              "title": "DevRel ST Brasil Phase 1"
             }
           },
           {
@@ -211,8 +213,8 @@
   },
   "active": "bff52d9ff1668f51",
   "lastOpenFiles": [
-    "solana-devrel/role/DevRel ST Brasil Phase 1.md",
     "solana-devrel/role/DevRelFlow.svg",
+    "solana-devrel/role/DevRel ST Brasil Phase 1.md",
     "Excalidraw/Drawing 2025-07-03 06.59.42.excalidraw.md",
     "Excalidraw",
     "solana-devrel/role/_research/DevRel ST Brasil Phase 1 1.md",
