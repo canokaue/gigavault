@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cornae.md",
+                "file": "solana-devrel/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cornae"
+              "title": "README"
             }
           }
         ]
@@ -199,11 +199,14 @@
   },
   "active": "bff52d9ff1668f51",
   "lastOpenFiles": [
+    "README.md",
+    "solana-devrel/LICENSE",
+    "komposer/LICENSE",
+    "cm-vault/LICENSE",
     "caramelo-vault/LICENSE",
     "cambi-vault/LICENSE",
     "LICENSE",
     "prod.gitignore",
-    "cornae.md",
     "2025-07-02.md",
     "Untitled Kanban.md",
     "Excalidraw/Drawing 2025-07-02 13.53.31.excalidraw.md",
@@ -214,11 +217,9 @@
     "solana-devrel/README.md",
     "solana-devrel",
     "--force",
-    "solana-devrel/stotes.py",
     "cambi-vault/Welcome 1.md",
     "cambi-vault/README copy.md",
     "cambi-vault/cm-risk-kb/README.md",
-    "cambi-vault/cm-risk-kb",
     "cambi-vault/README.md",
     "cm-vault/cm-risk-kb/README.md",
     "cm-vault/README.md",
@@ -227,8 +228,6 @@
     "komposer/Welcome copy.md",
     "Welcome copy.md",
     "cm-vault/cm-risk-kb/Welcome 1.md",
-    "cambi-vault",
-    "caramelo-vault/caramelo-agent-kb",
     "caramelo-vault/caramelo-agent-kb/Welcome 2.md",
     "Welcome.md",
     "caramelo-vault/Welcome 1.md",

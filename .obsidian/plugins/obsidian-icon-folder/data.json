@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "🌱",
+      "🐕",
+      "💳",
+      "✍",
+      "⚛"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +33,10 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "solana-devrel": "⚛",
+  "komposer": "✍",
+  "cm-vault": "💳",
+  "caramelo-vault": "🐕",
+  "cambi-vault": "🌱"
 }
