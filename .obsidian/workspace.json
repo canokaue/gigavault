@@ -197,8 +197,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "bff52d9ff1668f51",
+  "active": "aa191ebe61889879",
   "lastOpenFiles": [
+    "prod.gitignore",
     "README.md",
     "2025-07-02.md",
     "Untitled Kanban.md",
@@ -237,7 +238,6 @@
     "komposer/Syscoin/README.md.md",
     "komposer/Syscoin/2025_03-syscoin-content-schedule.md",
     "komposer/Syscoin/2025_03-devrel-jd.md",
-    "komposer/Syscoin/2025_03-bitvmy-bridge.md",
     "komposer/Syscoin"
   ]
 }
