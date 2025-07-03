@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "solana-devrel/README.md",
+                "file": "solana-devrel/role/_research/DevRel ST Brasil Phase 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "DevRel ST Brasil Phase 1"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -197,26 +197,30 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "bff52d9ff1668f51",
+  "active": "aa191ebe61889879",
   "lastOpenFiles": [
+    "LICENSE 1.sb-c82d7237-8GFbWY",
+    "komposer/LICENSE",
+    "LICENSE.sb-c82d7237-m6RHNa",
+    "solana-devrel/role/_prompts/DevRel ST Brasil Phase 1.md",
+    "solana-devrel/role/_research/DevRel ST Brasil Phase 1.md",
+    "solana-devrel/role/_research",
+    "solana-devrel/mobile/_prompts/Solana Mobile Developer Resources.md",
+    "solana-devrel/role/_prompts",
+    "solana-devrel/role",
+    "solana-devrel/README.md",
+    "solana-devrel/mobile/_prompts",
+    "solana-devrel/mobile",
+    "Untitled",
     "README.md",
     "solana-devrel/LICENSE",
     "komposer/LICENSE",
-    "cm-vault/LICENSE",
-    "caramelo-vault/LICENSE",
-    "cambi-vault/LICENSE",
-    "LICENSE",
-    "prod.gitignore",
     "2025-07-02.md",
     "Untitled Kanban.md",
     "Excalidraw/Drawing 2025-07-02 13.53.31.excalidraw.md",
-    "Excalidraw",
     "caramelo-vault/caramelo-agent-kb/README.md",
     "caramelo-vault/README.md",
     "caramelo-vault/caramelo-agent-kb/README 1.md",
-    "solana-devrel/README.md",
-    "solana-devrel",
-    "--force",
     "cambi-vault/Welcome 1.md",
     "cambi-vault/README copy.md",
     "cambi-vault/cm-risk-kb/README.md",
@@ -234,9 +238,6 @@
     "komposer/Syscoin/miningpools2.png",
     "komposer/Syscoin/miningpools.png",
     "komposer/Syscoin/miningpool3.png",
-    "komposer/Syscoin/dynamic-gov.png",
-    "komposer/Syscoin/README.md.md",
-    "komposer/Syscoin/2025_03-syscoin-content-schedule.md",
-    "komposer/Syscoin/2025_03-devrel-jd.md"
+    "komposer/Syscoin/dynamic-gov.png"
   ]
 }
