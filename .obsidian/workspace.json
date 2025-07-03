@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "87f72be1ed6e6b86",
+        "id": "6f91b10e2376f75a",
         "type": "tabs",
         "children": [
           {
-            "id": "1ecad9fb1dd19f4d",
+            "id": "cedcbf3c7ff8e2aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -197,14 +197,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1ecad9fb1dd19f4d",
+  "active": "cedcbf3c7ff8e2aa",
   "lastOpenFiles": [
-    "solana-devrel/role/DevRelFlow.svg",
     "Untitled Diagram.svg",
+    "Drawing 2025-07-03 09.51.35.excalidraw.md",
     "solana-devrel/role/DevRel ST Brasil Phase 1.md",
+    "solana-devrel/README.md",
+    "solana-devrel/role/_research/DevRel ST Brasil Phase 1 1.md",
+    "solana-devrel/role/DevRelFlow.svg",
     "Excalidraw/Drawing 2025-07-03 06.59.42.excalidraw.md",
     "Excalidraw",
-    "solana-devrel/role/_research/DevRel ST Brasil Phase 1 1.md",
     "cm-vault/cm-risk-kb/README.md",
     "cambi-vault/LICENSE.sb-c82d7237-1rc99R",
     "cm-vault/cm-risk-kb/LICENSE",
@@ -219,7 +221,6 @@
     "caramelo-vault/caramelo-agent-kb/LICENSE",
     "solana-devrel/role/_prompts/DevRel ST Brasil Phase 1.md",
     "solana-devrel/mobile/_prompts/Solana Mobile Developer Resources.md",
-    "solana-devrel/README.md",
     "README.md",
     "2025-07-02.md",
     "Untitled Kanban.md",
@@ -235,7 +236,6 @@
     "komposer/README.md",
     "komposer/Welcome copy.md",
     "Welcome copy.md",
-    "cm-vault/cm-risk-kb/Welcome 1.md",
     "komposer/Syscoin/miningpools2.png",
     "komposer/Syscoin/miningpools.png",
     "komposer/Syscoin/miningpool3.png",
