@@ -11,12 +11,14 @@
             "id": "cedcbf3c7ff8e2aa",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "solana-devrel/role/DevRelPillarsDiagram.png"
+                "file": "caramelo-vault/caramelo-mvp.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "DevRelPillarsDiagram"
+              "icon": "lucide-file",
+              "title": "caramelo-mvp"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "solana-devrel/role/DevRelPillarsDiagram.png",
+                "file": "caramelo-vault/caramelo-mvp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DevRelPillarsDiagram"
+              "title": "Backlinks for caramelo-mvp"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "solana-devrel/role/DevRelPillarsDiagram.png",
+                "file": "caramelo-vault/caramelo-mvp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DevRelPillarsDiagram"
+              "title": "Outgoing links from caramelo-mvp"
             }
           },
           {
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "solana-devrel/role/DevRelPillarsDiagram.png",
+                "file": "caramelo-vault/caramelo-mvp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DevRelPillarsDiagram"
+              "title": "Outline of caramelo-mvp"
             }
           },
           {
@@ -195,10 +197,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "aa191ebe61889879",
+  "active": "cedcbf3c7ff8e2aa",
   "lastOpenFiles": [
-    "solana-devrel/role/DevRel ST Brasil Phase 1.md",
     "solana-devrel/role/DevRelPillarsDiagram.png",
+    "caramelo-vault/caramelo-mvp.md",
+    "solana-devrel/role/DevRel ST Brasil Phase 1.md",
     "kanban.md",
     "solana-devrel/README.md",
     "Untitled.md",
@@ -234,7 +237,6 @@
     "cambi-vault/README.md",
     "cm-vault/Welcome.md",
     "komposer/README.md",
-    "komposer/Welcome copy.md",
     "komposer/Syscoin/miningpools2.png",
     "komposer/Syscoin/miningpools.png",
     "komposer/Syscoin/miningpool3.png",
